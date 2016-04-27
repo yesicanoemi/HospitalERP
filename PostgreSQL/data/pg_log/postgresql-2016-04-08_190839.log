@@ -1,0 +1,79 @@
+2016-04-08 19:08:39 CST LOG:  el sistema de bases de datos fue apagado en 2016-04-08 19:08:23 CST
+2016-04-08 19:08:40 CST LOG:  lanzador de autovacuum iniciado
+2016-04-08 19:08:40 CST LOG:  el sistema de bases de datos est� listo para aceptar conexiones
+2016-04-08 19:22:06 CST ERROR:  update o delete en «mail_alias» viola la llave foránea «mail_group_alias_id_fkey» en la tabla «mail_group»
+2016-04-08 19:22:06 CST DETALLE:  La llave (id)=(5) todavía es referida desde la tabla «mail_group».
+2016-04-08 19:22:06 CST SENTENCIA:  delete from mail_alias where id IN (5)
+2016-04-08 19:22:06 CST ERROR:  update o delete en «mail_alias» viola la llave foránea «mail_group_alias_id_fkey» en la tabla «mail_group»
+2016-04-08 19:22:06 CST DETALLE:  La llave (id)=(4) todavía es referida desde la tabla «mail_group».
+2016-04-08 19:22:06 CST SENTENCIA:  delete from mail_alias where id IN (4)
+2016-04-08 19:24:38 CST ERROR:  el valor null para la columna «name» viola la restricción not null
+2016-04-08 19:24:38 CST DETALLE:  La fila que falla contiene (2, 1, 2016-04-09 01:24:38.27, 2016-04-09 01:24:38.27, 1, null, null, 1.00, null, null, null, 0.00, fixed, 1, null, standard, 1, null, 1.000, null, t, null, null, 1, null, 1, 1, f, consu).
+2016-04-08 19:24:38 CST SENTENCIA:  insert into "product_template" (id,"uos_coeff","list_price","sale_ok","produce_delay","standard_price","company_id","mes_type","uom_id","type","uom_po_id","rental","cost_method","categ_id",create_uid,create_date,write_uid,write_date) values (2,'1.000','1.00','True',1.0,'0.00',1,'fixed',1,'consu',1,'False','standard',1,1,(now() at time zone 'UTC'),1,(now() at time zone 'UTC'))
+2016-04-08 19:24:54 CST ERROR:  el valor null para la columna «name» viola la restricción not null
+2016-04-08 19:24:54 CST DETALLE:  La fila que falla contiene (3, 1, 2016-04-09 01:24:54.423, 2016-04-09 01:24:54.423, 1, null, null, 1.00, null, null, null, 0.00, fixed, 1, null, standard, 1, null, 1.000, null, t, null, null, 1, null, 1, 1, f, consu).
+2016-04-08 19:24:54 CST SENTENCIA:  insert into "product_template" (id,"uos_coeff","list_price","sale_ok","produce_delay","standard_price","company_id","mes_type","uom_id","type","uom_po_id","rental","cost_method","categ_id",create_uid,create_date,write_uid,write_date) values (3,'1.000','1.00','True',1.0,'0.00',1,'fixed',1,'consu',1,'False','standard',1,1,(now() at time zone 'UTC'),1,(now() at time zone 'UTC'))
+2016-04-08 19:27:17 CST ERROR:  el valor null para la columna «name» viola la restricción not null
+2016-04-08 19:27:17 CST DETALLE:  La fila que falla contiene (4, 1, 2016-04-09 01:27:17.671, 2016-04-09 01:27:17.671, 1, null, null, 1.00, null, null, null, 0.00, fixed, 1, null, standard, 1, null, 1.000, null, t, null, null, 1, null, 1, 1, f, consu).
+2016-04-08 19:27:17 CST SENTENCIA:  insert into "product_template" (id,"uos_coeff","list_price","sale_ok","produce_delay","standard_price","company_id","mes_type","uom_id","type","uom_po_id","rental","cost_method","categ_id",create_uid,create_date,write_uid,write_date) values (4,'1.000','1.00','True',1.0,'0.00',1,'fixed',1,'consu',1,'False','standard',1,1,(now() at time zone 'UTC'),1,(now() at time zone 'UTC'))
+2016-04-08 19:28:19 CST ERROR:  el valor null para la columna «name» viola la restricción not null
+2016-04-08 19:28:19 CST DETALLE:  La fila que falla contiene (5, 1, 2016-04-09 01:28:19.689, 2016-04-09 01:28:19.689, 1, null, null, 1.00, null, null, null, 0.00, fixed, 1, null, standard, 1, null, 1.000, null, t, null, null, 1, null, 1, 1, f, consu).
+2016-04-08 19:28:19 CST SENTENCIA:  insert into "product_template" (id,"uos_coeff","list_price","sale_ok","produce_delay","standard_price","company_id","mes_type","uom_id","type","uom_po_id","rental","cost_method","categ_id",create_uid,create_date,write_uid,write_date) values (5,'1.000','1.00','True',1.0,'0.00',1,'fixed',1,'consu',1,'False','standard',1,1,(now() at time zone 'UTC'),1,(now() at time zone 'UTC'))
+2016-04-09 01:19:05 CST FATAL:  no existe la base de datos �Hosp1�
+2016-04-09 01:26:36 CST ERROR:  el valor null para la columna «name» viola la restricción not null
+2016-04-09 01:26:36 CST DETALLE:  La fila que falla contiene (7, 1, 2016-04-09 07:26:35.877, 2016-04-09 07:26:35.877, 1, null, null, 1.00, null, null, null, 0.00, fixed, 1, null, standard, 1, null, 1.000, null, t, null, null, 1, null, 1, 1, f, consu).
+2016-04-09 01:26:36 CST SENTENCIA:  insert into "product_template" (id,"uos_coeff","list_price","sale_ok","produce_delay","standard_price","company_id","mes_type","uom_id","type","uom_po_id","rental","cost_method","categ_id",create_uid,create_date,write_uid,write_date) values (7,'1.000','1.00','True',1.0,'0.00',1,'fixed',1,'consu',1,'False','standard',1,1,(now() at time zone 'UTC'),1,(now() at time zone 'UTC'))
+2016-04-09 01:27:15 CST ERROR:  el valor null para la columna «name» viola la restricción not null
+2016-04-09 01:27:15 CST DETALLE:  La fila que falla contiene (8, 1, 2016-04-09 07:27:15.848, 2016-04-09 07:27:15.848, 1, null, null, 1.00, null, null, null, 0.00, fixed, 1, null, standard, 1, null, 1.000, null, t, null, null, 1, null, 1, 1, f, consu).
+2016-04-09 01:27:15 CST SENTENCIA:  insert into "product_template" (id,"uos_coeff","list_price","sale_ok","produce_delay","standard_price","company_id","mes_type","uom_id","type","uom_po_id","rental","cost_method","categ_id",create_uid,create_date,write_uid,write_date) values (8,'1.000','1.00','True',1.0,'0.00',1,'fixed',1,'consu',1,'False','standard',1,1,(now() at time zone 'UTC'),1,(now() at time zone 'UTC'))
+2016-04-09 01:27:17 CST ERROR:  el valor null para la columna «name» viola la restricción not null
+2016-04-09 01:27:17 CST DETALLE:  La fila que falla contiene (9, 1, 2016-04-09 07:27:17.858, 2016-04-09 07:27:17.858, 1, null, null, 1.00, null, null, null, 0.00, fixed, 1, null, standard, 1, null, 1.000, null, t, null, null, 1, null, 1, 1, f, consu).
+2016-04-09 01:27:17 CST SENTENCIA:  insert into "product_template" (id,"uos_coeff","list_price","sale_ok","produce_delay","standard_price","company_id","mes_type","uom_id","type","uom_po_id","rental","cost_method","categ_id",create_uid,create_date,write_uid,write_date) values (9,'1.000','1.00','True',1.0,'0.00',1,'fixed',1,'consu',1,'False','standard',1,1,(now() at time zone 'UTC'),1,(now() at time zone 'UTC'))
+2016-04-09 01:30:46 CST ERROR:  el valor null para la columna «name» viola la restricción not null
+2016-04-09 01:30:46 CST DETALLE:  La fila que falla contiene (10, 1, 2016-04-09 07:30:46.376, 2016-04-09 07:30:46.376, 1, null, null, 1.00, null, null, null, 0.00, fixed, 1, null, standard, 1, null, 1.000, null, t, null, null, 1, null, 1, 1, f, consu).
+2016-04-09 01:30:46 CST SENTENCIA:  insert into "product_template" (id,"uos_coeff","list_price","sale_ok","produce_delay","standard_price","company_id","mes_type","uom_id","type","uom_po_id","rental","cost_method","categ_id",create_uid,create_date,write_uid,write_date) values (10,'1.000','1.00','True',1.0,'0.00',1,'fixed',1,'consu',1,'False','standard',1,1,(now() at time zone 'UTC'),1,(now() at time zone 'UTC'))
+2016-04-09 01:31:05 CST ERROR:  el valor null para la columna «name» viola la restricción not null
+2016-04-09 01:31:05 CST DETALLE:  La fila que falla contiene (11, 1, 2016-04-09 07:31:05.911, 2016-04-09 07:31:05.911, 1, null, null, 1.00, null, null, null, 0.00, fixed, 1, null, standard, 1, null, 1.000, null, t, null, null, 1, null, 1, 1, f, consu).
+2016-04-09 01:31:05 CST SENTENCIA:  insert into "product_template" (id,"uos_coeff","list_price","sale_ok","produce_delay","standard_price","company_id","mes_type","uom_id","type","uom_po_id","rental","cost_method","categ_id",create_uid,create_date,write_uid,write_date) values (11,'1.000','1.00','True',1.0,'0.00',1,'fixed',1,'consu',1,'False','standard',1,1,(now() at time zone 'UTC'),1,(now() at time zone 'UTC'))
+2016-04-09 01:31:08 CST ERROR:  el valor null para la columna «name» viola la restricción not null
+2016-04-09 01:31:08 CST DETALLE:  La fila que falla contiene (12, 1, 2016-04-09 07:31:08.127, 2016-04-09 07:31:08.127, 1, null, null, 1.00, null, null, null, 0.00, fixed, 1, null, standard, 1, null, 1.000, null, t, null, null, 1, null, 1, 1, f, consu).
+2016-04-09 01:31:08 CST SENTENCIA:  insert into "product_template" (id,"uos_coeff","list_price","sale_ok","produce_delay","standard_price","company_id","mes_type","uom_id","type","uom_po_id","rental","cost_method","categ_id",create_uid,create_date,write_uid,write_date) values (12,'1.000','1.00','True',1.0,'0.00',1,'fixed',1,'consu',1,'False','standard',1,1,(now() at time zone 'UTC'),1,(now() at time zone 'UTC'))
+2016-04-09 01:31:09 CST ERROR:  el valor null para la columna «name» viola la restricción not null
+2016-04-09 01:31:09 CST DETALLE:  La fila que falla contiene (13, 1, 2016-04-09 07:31:09.225, 2016-04-09 07:31:09.225, 1, null, null, 1.00, null, null, null, 0.00, fixed, 1, null, standard, 1, null, 1.000, null, t, null, null, 1, null, 1, 1, f, consu).
+2016-04-09 01:31:09 CST SENTENCIA:  insert into "product_template" (id,"uos_coeff","list_price","sale_ok","produce_delay","standard_price","company_id","mes_type","uom_id","type","uom_po_id","rental","cost_method","categ_id",create_uid,create_date,write_uid,write_date) values (13,'1.000','1.00','True',1.0,'0.00',1,'fixed',1,'consu',1,'False','standard',1,1,(now() at time zone 'UTC'),1,(now() at time zone 'UTC'))
+2016-04-09 01:39:20 CST FATAL:  no existe la base de datos �Robles�
+2016-04-09 01:41:03 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-09 01:41:03 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-09 02:08:39 CST ERROR:  el valor null para la columna «name» viola la restricción not null
+2016-04-09 02:08:39 CST DETALLE:  La fila que falla contiene (7, 1, 2016-04-09 08:08:39.348, 2016-04-09 08:08:39.348, 1, null, null, 1.00, null, null, null, 0.00, fixed, 1, null, standard, 1, null, 1.000, null, t, null, null, 1, null, 1, 1, f, consu, null, null, 7, null, buy, make_to_stock, t).
+2016-04-09 02:08:39 CST SENTENCIA:  insert into "product_template" (id,"supply_method","list_price","standard_price","mes_type","uom_id","cost_method","categ_id","uos_coeff","sale_delay","procure_method","sale_ok","purchase_ok","company_id","produce_delay","uom_po_id","rental","type",create_uid,create_date,write_uid,write_date) values (7,'buy','1.00','0.00','fixed',1,'standard',1,'1.000',7.0,'make_to_stock','True','True',1,1.0,1,'False','consu',1,(now() at time zone 'UTC'),1,(now() at time zone 'UTC'))
+2016-04-09 02:08:48 CST ERROR:  el valor null para la columna «name» viola la restricción not null
+2016-04-09 02:08:48 CST DETALLE:  La fila que falla contiene (8, 1, 2016-04-09 08:08:48.334, 2016-04-09 08:08:48.334, 1, null, null, 1.00, null, null, null, 0.00, fixed, 1, null, standard, 1, null, 1.000, null, t, null, null, 1, null, 1, 1, f, consu, null, null, 7, null, buy, make_to_stock, t).
+2016-04-09 02:08:48 CST SENTENCIA:  insert into "product_template" (id,"supply_method","list_price","standard_price","mes_type","uom_id","cost_method","categ_id","uos_coeff","sale_delay","procure_method","sale_ok","purchase_ok","company_id","produce_delay","uom_po_id","rental","type",create_uid,create_date,write_uid,write_date) values (8,'buy','1.00','0.00','fixed',1,'standard',1,'1.000',7.0,'make_to_stock','True','True',1,1.0,1,'False','consu',1,(now() at time zone 'UTC'),1,(now() at time zone 'UTC'))
+2016-04-09 02:09:27 CST ERROR:  el valor null para la columna «name» viola la restricción not null
+2016-04-09 02:09:27 CST DETALLE:  La fila que falla contiene (9, 1, 2016-04-09 08:09:27.419, 2016-04-09 08:09:27.419, 1, null, null, 1.00, null, null, null, 0.00, fixed, 1, null, standard, 1, null, 1.000, null, t, null, null, 1, null, 1, 1, f, consu, null, null, 7, null, buy, make_to_stock, t).
+2016-04-09 02:09:27 CST SENTENCIA:  insert into "product_template" (id,"supply_method","list_price","standard_price","mes_type","uom_id","cost_method","categ_id","uos_coeff","sale_delay","procure_method","sale_ok","purchase_ok","company_id","produce_delay","uom_po_id","rental","type",create_uid,create_date,write_uid,write_date) values (9,'buy','1.00','0.00','fixed',1,'standard',1,'1.000',7.0,'make_to_stock','True','True',1,1.0,1,'False','consu',1,(now() at time zone 'UTC'),1,(now() at time zone 'UTC'))
+2016-04-09 02:41:04 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-09 02:41:04 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-09 02:41:05 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-09 02:41:05 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-09 02:41:05 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-09 02:41:05 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-09 03:26:33 CST ERROR:  el valor null para la columna «name» viola la restricción not null
+2016-04-09 03:26:33 CST DETALLE:  La fila que falla contiene (39791, null, null, null, null, 211/Alimentos, to_translate, null, null, null).
+2016-04-09 03:26:33 CST SENTENCIA:  insert into "ir_translation" (id,"state","module") values (39791,'to_translate','211/Alimentos')
+2016-04-09 03:26:52 CST ERROR:  el valor null para la columna «name» viola la restricción not null
+2016-04-09 03:26:52 CST DETALLE:  La fila que falla contiene (39792, null, null, null, null, Categoria, to_translate, null, null, null).
+2016-04-09 03:26:52 CST SENTENCIA:  insert into "ir_translation" (id,"state","module") values (39792,'to_translate','Categoria')

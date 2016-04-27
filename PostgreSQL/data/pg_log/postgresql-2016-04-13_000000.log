@@ -1,0 +1,68 @@
+2016-04-13 22:14:53 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:14:53 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:14:53 CST FATAL:  el protocolo 65363.19778 no est� soportado: servidor soporta 1.0 hasta 3.0
+2016-04-13 22:14:53 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:14:53 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:14:53 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:14:54 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:14:54 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:14:54 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:14:54 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:14:54 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:14:54 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:14:54 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:14:54 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:14:54 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:14:55 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:14:55 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:14:55 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:14:55 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:14:55 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:14:55 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:15:54 CST LOG:  el de paquete de inicio tiene largo incorrecto
+2016-04-13 22:18:09 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-13 22:18:09 CST LOG:  el paquete de inicio est� incompleto
+2016-04-13 23:27:44 CST WARNING:  worker took too long to start; canceled
+2016-04-13 23:28:46 CST WARNING:  worker took too long to start; canceled
+2016-04-13 23:29:25 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 23:29:26 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=8
+	                                   FOR UPDATE NOWAIT
+2016-04-13 23:30:07 CST WARNING:  autovacuum worker started without a worker entry
+2016-04-13 23:32:08 CST WARNING:  pgstat wait timeout
+2016-04-13 23:38:22 CST WARNING:  worker took too long to start; canceled
+2016-04-13 23:39:06 CST WARNING:  autovacuum worker started without a worker entry
+2016-04-13 23:39:08 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 23:39:09 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=8
+	                                   FOR UPDATE NOWAIT
+2016-04-13 23:39:44 CST WARNING:  pgstat wait timeout
+2016-04-13 23:40:19 CST WARNING:  worker took too long to start; canceled
+2016-04-13 23:40:37 CST WARNING:  autovacuum worker started without a worker entry
+2016-04-13 23:41:30 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 23:41:31 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-13 23:41:56 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 23:41:56 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-13 23:43:17 CST WARNING:  worker took too long to start; canceled
+2016-04-13 23:44:28 CST WARNING:  autovacuum worker started without a worker entry
+2016-04-13 23:46:56 CST WARNING:  worker took too long to start; canceled
+2016-04-13 23:48:28 CST WARNING:  worker took too long to start; canceled
+2016-04-13 23:50:01 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 23:50:02 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=8
+	                                   FOR UPDATE NOWAIT
+2016-04-13 23:50:16 CST WARNING:  pgstat wait timeout
+2016-04-13 23:51:31 CST WARNING:  worker took too long to start; canceled
+2016-04-13 23:54:04 CST WARNING:  worker took too long to start; canceled
+2016-04-13 23:56:16 CST WARNING:  pgstat wait timeout
+2016-04-13 23:56:57 CST WARNING:  pgstat wait timeout
+2016-04-13 23:57:43 CST WARNING:  worker took too long to start; canceled

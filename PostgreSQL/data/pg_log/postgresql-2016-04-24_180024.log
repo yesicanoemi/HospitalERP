@@ -1,0 +1,30 @@
+2016-04-24 18:00:49 CST FATAL:  el sistema de base de datos está iniciándose
+2016-04-24 18:00:49 CST LOG:  el sistema de bases de datos fue interrumpido; última vez en funcionamiento en 2016-04-24 12:45:17 CST
+2016-04-24 18:00:50 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-24 18:00:50 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-24 18:00:50 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-24 18:00:50 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-24 18:00:50 CST LOG:  el sistema de bases de datos no fue apagado apropiadamente; se está efectuando la recuperación automática
+2016-04-24 18:00:50 CST LOG:  redo comienza en 0/113BF980
+2016-04-24 18:00:50 CST LOG:  registro de longitud cero en 0/113C4BC0
+2016-04-24 18:00:50 CST FATAL:  el sistema de base de datos está iniciándose
+2016-04-24 18:00:51 CST LOG:  redo listo en 0/113C4B90
+2016-04-24 18:00:51 CST LOG:  última transacción completada al tiempo de registro 2016-04-24 17:57:34.641-06
+2016-04-24 18:00:52 CST FATAL:  el sistema de base de datos está iniciándose
+2016-04-24 18:00:52 CST LOG:  el sistema de bases de datos está listo para aceptar conexiones
+2016-04-24 18:00:53 CST LOG:  lanzador de autovacuum iniciado
+2016-04-25 17:48:55 CST ERROR:  el valor null para la columna Â«partner_idÂ» viola la restricciÃ³n not null
+2016-04-25 17:48:55 CST DETALLE:  La fila que falla contiene (9, RequisiciÃ³n, null, null, 86, 1, 2016-04-12 10:27:47.415, 2016-04-12 10:27:47.415, 1, null, 
+	<header>
+	    <pageTemplate>
+	        <frame id="first" x1="1.3cm..., a4, \x6956424f5277304b47676f414141414e5355684555674141414c5141414141..., 
+	<header>
+	<pageTemplate>
+	    <frame id="first" x1="28.0" y1="28...., 
+	<header>
+	<pageTemplate>
+	    <frame id="first" x1="28.0" y1="28...., null, null, null, f, t, null, Dear Sir/Madam,
+	
+	Our records indicate that some payments on your..., round_per_line, null, null, 10, 0, 1, 6).
+2016-04-25 17:48:55 CST CONTEXTO:  sentencia SQL: Â«UPDATE ONLY "public"."res_company" SET "partner_id" = NULL WHERE $1 OPERATOR(pg_catalog.=) "partner_id"Â»
+2016-04-25 17:48:55 CST SENTENCIA:  delete from res_partner where id IN (25)

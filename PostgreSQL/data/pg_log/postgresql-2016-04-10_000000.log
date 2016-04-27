@@ -1,0 +1,120 @@
+2016-04-13 09:40:57 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 09:40:57 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-13 09:41:19 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 09:41:19 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-13 09:49:28 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 09:49:29 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=8
+	                                   FOR UPDATE NOWAIT
+2016-04-13 10:00:02 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 10:00:02 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=8
+	                                   FOR UPDATE NOWAIT
+2016-04-13 10:04:21 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 10:04:21 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=8
+	                                   FOR UPDATE NOWAIT
+2016-04-13 10:09:31 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 10:09:31 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=8
+	                                   FOR UPDATE NOWAIT
+2016-04-13 10:10:37 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 10:10:37 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-13 10:10:57 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 10:10:57 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-13 10:27:08 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-13 10:27:08 CST LOG:  el paquete de inicio est� incompleto
+2016-04-13 10:33:39 CST WARNING:  worker took too long to start; canceled
+2016-04-13 10:34:10 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 10:34:11 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=8
+	                                   FOR UPDATE NOWAIT
+2016-04-13 10:35:56 CST WARNING:  autovacuum worker started without a worker entry
+2016-04-13 10:38:16 CST WARNING:  worker took too long to start; canceled
+2016-04-13 10:39:33 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 10:39:33 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=8
+	                                   FOR UPDATE NOWAIT
+2016-04-13 10:39:38 CST WARNING:  worker took too long to start; canceled
+2016-04-13 10:40:39 CST WARNING:  worker took too long to start; canceled
+2016-04-13 10:40:54 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 10:40:54 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-13 10:42:30 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 10:42:30 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-13 10:42:45 CST WARNING:  worker took too long to start; canceled
+2016-04-13 10:44:05 CST WARNING:  worker took too long to start; canceled
+2016-04-13 10:45:08 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 10:45:08 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=8
+	                                   FOR UPDATE NOWAIT
+2016-04-13 10:46:13 CST WARNING:  autovacuum worker started without a worker entry
+2016-04-13 13:49:56 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 13:49:56 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-13 13:49:59 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 13:49:59 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-13 17:09:27 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 17:09:27 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-13 17:09:28 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 17:09:28 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=8
+	                                   FOR UPDATE NOWAIT
+2016-04-13 17:41:12 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 17:41:12 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-13 17:41:19 CST WARNING:  worker took too long to start; canceled
+2016-04-13 17:41:49 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 17:41:49 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-13 17:42:21 CST WARNING:  worker took too long to start; canceled
+2016-04-13 17:42:55 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 17:42:55 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-13 17:43:21 CST WARNING:  autovacuum worker started without a worker entry
+2016-04-13 17:47:27 CST WARNING:  worker took too long to start; canceled
+2016-04-13 17:47:42 CST WARNING:  autovacuum worker started without a worker entry
+2016-04-13 17:49:03 CST ERROR:  no se pudo bloquear un candado en la fila de la relación «ir_cron»
+2016-04-13 17:49:03 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=8
+	                                   FOR UPDATE NOWAIT

@@ -1,0 +1,12 @@
+2016-04-21 08:13:59 CST LOG:  el sistema de bases de datos fue interrumpido; última vez en funcionamiento en 2016-04-16 16:54:25 CST
+2016-04-21 08:14:00 CST LOG:  el sistema de bases de datos no fue apagado apropiadamente; se está efectuando la recuperación automática
+2016-04-21 08:14:00 CST LOG:  redo comienza en 0/11307AD0
+2016-04-21 08:14:00 CST LOG:  registro de longitud cero en 0/11308978
+2016-04-21 08:14:00 CST LOG:  redo listo en 0/11308948
+2016-04-21 08:14:00 CST LOG:  última transacción completada al tiempo de registro 2016-04-16 16:54:49.206-06
+2016-04-21 08:14:02 CST LOG:  el sistema de bases de datos está listo para aceptar conexiones
+2016-04-21 08:14:03 CST LOG:  lanzador de autovacuum iniciado
+2016-04-21 10:55:40 CST LOG:  se recibió petición de apagado rápido
+2016-04-21 10:55:40 CST LOG:  abortando transacciones activas
+2016-04-21 10:55:40 CST LOG:  apagando lanzador de autovacuum
+2016-04-21 10:55:40 CST ERROR:  cancelando la sentencia debido a una petición del usuario

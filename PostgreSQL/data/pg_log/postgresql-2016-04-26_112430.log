@@ -1,0 +1,135 @@
+2016-04-26 11:24:58 CST FATAL:  el sistema de base de datos está iniciándose
+2016-04-26 11:24:58 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 11:24:58 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 11:24:58 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 11:24:58 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 11:24:59 CST LOG:  el sistema de bases de datos fue interrumpido; última vez en funcionamiento en 2016-04-26 09:58:58 CST
+2016-04-26 11:24:59 CST FATAL:  el sistema de base de datos está iniciándose
+2016-04-26 11:24:59 CST LOG:  el sistema de bases de datos no fue apagado apropiadamente; se está efectuando la recuperación automática
+2016-04-26 11:24:59 CST LOG:  redo comienza en 0/11608070
+2016-04-26 11:24:59 CST LOG:  registro de longitud cero en 0/11609220
+2016-04-26 11:24:59 CST LOG:  redo listo en 0/116091F0
+2016-04-26 11:24:59 CST LOG:  última transacción completada al tiempo de registro 2016-04-26 09:59:13.803-06
+2016-04-26 11:25:00 CST FATAL:  el sistema de base de datos está iniciándose
+2016-04-26 11:25:01 CST LOG:  el sistema de bases de datos está listo para aceptar conexiones
+2016-04-26 11:25:01 CST LOG:  lanzador de autovacuum iniciado
+2016-04-26 11:29:39 CST ERROR:  no se pudo bloquear un candado en la fila de la relaciÃ³n Â«ir_cronÂ»
+2016-04-26 11:29:39 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-26 12:40:51 CST ERROR:  no se pudo bloquear un candado en la fila de la relaciÃ³n Â«ir_cronÂ»
+2016-04-26 12:40:51 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-26 13:16:45 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:16:45 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:16:45 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:16:45 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:16:45 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:16:45 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:16:45 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:16:45 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:26:32 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:26:32 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:26:32 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:26:32 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:26:32 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:32:21 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:32:21 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:32:21 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:32:21 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:32:21 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:33:37 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:33:37 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:33:37 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:33:37 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:38:13 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:38:13 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:38:13 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:38:13 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:42:03 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:42:03 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:42:03 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:42:03 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 13:42:03 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:14:11 CST ERROR:  no se pudo bloquear un candado en la fila de la relaciÃ³n Â«ir_cronÂ»
+2016-04-26 15:14:11 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=8
+	                                   FOR UPDATE NOWAIT
+2016-04-26 15:29:47 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:29:47 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:29:47 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:29:47 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:29:47 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:37:19 CST ERROR:  no se pudo bloquear un candado en la fila de la relaciÃ³n Â«ir_cronÂ»
+2016-04-26 15:37:19 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=8
+	                                   FOR UPDATE NOWAIT
+2016-04-26 15:37:52 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:37:52 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:37:52 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:37:52 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:37:52 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:37:52 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:38:54 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:38:54 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:38:54 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:38:54 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:38:54 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:40:31 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:40:31 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:40:31 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:40:31 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:40:31 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:41:36 CST ERROR:  no se pudo bloquear un candado en la fila de la relaciÃ³n Â«ir_cronÂ»
+2016-04-26 15:41:36 CST SENTENCIA:  SELECT *
+	                                   FROM ir_cron
+	                                   WHERE id=1
+	                                   FOR UPDATE NOWAIT
+2016-04-26 15:45:11 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:45:11 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:45:11 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 15:45:11 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:23:16 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:23:16 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:23:16 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:23:16 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:23:16 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:36:38 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:36:38 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:36:38 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:36:38 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:36:38 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:38:07 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:38:07 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:38:07 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:38:07 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:39:25 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:39:25 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:39:25 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:39:25 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:39:25 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:39:25 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:41:03 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:41:03 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:41:03 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:41:03 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:41:03 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:41:03 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:41:03 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:46:27 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:46:27 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:46:27 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:46:27 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:46:27 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:46:27 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:51:04 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:51:04 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:51:04 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:51:04 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:51:04 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-26 16:51:04 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061

@@ -1,0 +1,14 @@
+2016-04-21 10:57:35 CST FATAL:  el sistema de base de datos está iniciándose
+2016-04-21 10:57:35 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-21 10:57:35 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-21 10:57:35 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-21 10:57:35 CST LOG:  no se pudo recibir datos del cliente: unrecognized winsock error 10061
+2016-04-21 10:57:36 CST LOG:  el sistema de bases de datos fue interrumpido; última vez en funcionamiento en 2016-04-21 08:14:02 CST
+2016-04-21 10:57:36 CST FATAL:  el sistema de base de datos está iniciándose
+2016-04-21 10:57:36 CST LOG:  el sistema de bases de datos no fue apagado apropiadamente; se está efectuando la recuperación automática
+2016-04-21 10:57:37 CST LOG:  registro de longitud cero en 0/113089D8
+2016-04-21 10:57:37 CST LOG:  no se requiere redo
+2016-04-21 10:57:37 CST FATAL:  el sistema de base de datos está iniciándose
+2016-04-21 10:57:39 CST FATAL:  el sistema de base de datos está iniciándose
+2016-04-21 10:57:39 CST LOG:  el sistema de bases de datos está listo para aceptar conexiones
+2016-04-21 10:57:39 CST LOG:  lanzador de autovacuum iniciado

@@ -1,0 +1,39 @@
+2016-04-26 09:59:43 CST LOG:  proceso de servidor (PID 7492) fue terminado por una excepci�n 0xC0000018
+2016-04-26 09:59:43 CST HINT:  Vea el archivo �ntstatus.h� para una descripci�n del valor hexadecimal.
+2016-04-26 09:59:43 CST LOG:  terminando todos los otros procesos de servidor activos
+2016-04-26 09:59:43 CST WARNING:  terminando la conexión debido a una falla en otro proceso servidor
+2016-04-26 09:59:43 CST DETALLE:  Postmaster ha ordenado que este proceso servidor cancele la transacción en curso y finalice la conexión, porque otro proceso servidor ha terminado anormalmente y podría haber corrompido la memoria compartida.
+2016-04-26 09:59:43 CST HINT:  Dentro de un momento debería poder reconectarse y repetir la consulta.
+2016-04-26 09:59:43 CST WARNING:  terminando la conexión debido a una falla en otro proceso servidor
+2016-04-26 09:59:43 CST DETALLE:  Postmaster ha ordenado que este proceso servidor cancele la transacción en curso y finalice la conexión, porque otro proceso servidor ha terminado anormalmente y podría haber corrompido la memoria compartida.
+2016-04-26 09:59:43 CST HINT:  Dentro de un momento debería poder reconectarse y repetir la consulta.
+2016-04-26 09:59:43 CST WARNING:  terminando la conexión debido a una falla en otro proceso servidor
+2016-04-26 09:59:43 CST DETALLE:  Postmaster ha ordenado que este proceso servidor cancele la transacción en curso y finalice la conexión, porque otro proceso servidor ha terminado anormalmente y podría haber corrompido la memoria compartida.
+2016-04-26 09:59:43 CST HINT:  Dentro de un momento debería poder reconectarse y repetir la consulta.
+2016-04-26 09:59:43 CST WARNING:  terminando la conexión debido a una falla en otro proceso servidor
+2016-04-26 09:59:43 CST DETALLE:  Postmaster ha ordenado que este proceso servidor cancele la transacción en curso y finalice la conexión, porque otro proceso servidor ha terminado anormalmente y podría haber corrompido la memoria compartida.
+2016-04-26 09:59:43 CST HINT:  Dentro de un momento debería poder reconectarse y repetir la consulta.
+2016-04-26 09:59:43 CST WARNING:  terminando la conexión debido a una falla en otro proceso servidor
+2016-04-26 09:59:43 CST DETALLE:  Postmaster ha ordenado que este proceso servidor cancele la transacción en curso y finalice la conexión, porque otro proceso servidor ha terminado anormalmente y podría haber corrompido la memoria compartida.
+2016-04-26 09:59:43 CST HINT:  Dentro de un momento debería poder reconectarse y repetir la consulta.
+2016-04-26 09:59:43 CST WARNING:  terminando la conexión debido a una falla en otro proceso servidor
+2016-04-26 09:59:43 CST DETALLE:  Postmaster ha ordenado que este proceso servidor cancele la transacción en curso y finalice la conexión, porque otro proceso servidor ha terminado anormalmente y podría haber corrompido la memoria compartida.
+2016-04-26 09:59:43 CST HINT:  Dentro de un momento debería poder reconectarse y repetir la consulta.
+2016-04-26 09:59:43 CST WARNING:  terminando la conexión debido a una falla en otro proceso servidor
+2016-04-26 09:59:43 CST DETALLE:  Postmaster ha ordenado que este proceso servidor cancele la transacción en curso y finalice la conexión, porque otro proceso servidor ha terminado anormalmente y podría haber corrompido la memoria compartida.
+2016-04-26 09:59:43 CST HINT:  Dentro de un momento debería poder reconectarse y repetir la consulta.
+2016-04-26 09:59:44 CST WARNING:  terminando la conexión debido a una falla en otro proceso servidor
+2016-04-26 09:59:44 CST DETALLE:  Postmaster ha ordenado que este proceso servidor cancele la transacción en curso y finalice la conexión, porque otro proceso servidor ha terminado anormalmente y podría haber corrompido la memoria compartida.
+2016-04-26 09:59:44 CST HINT:  Dentro de un momento debería poder reconectarse y repetir la consulta.
+2016-04-26 09:59:44 CST WARNING:  terminando la conexión debido a una falla en otro proceso servidor
+2016-04-26 09:59:44 CST DETALLE:  Postmaster ha ordenado que este proceso servidor cancele la transacción en curso y finalice la conexión, porque otro proceso servidor ha terminado anormalmente y podría haber corrompido la memoria compartida.
+2016-04-26 09:59:44 CST HINT:  Dentro de un momento debería poder reconectarse y repetir la consulta.
+2016-04-26 09:59:44 CST WARNING:  terminando la conexión debido a una falla en otro proceso servidor
+2016-04-26 09:59:44 CST DETALLE:  Postmaster ha ordenado que este proceso servidor cancele la transacción en curso y finalice la conexión, porque otro proceso servidor ha terminado anormalmente y podría haber corrompido la memoria compartida.
+2016-04-26 09:59:44 CST HINT:  Dentro de un momento debería poder reconectarse y repetir la consulta.
+2016-04-26 09:59:45 CST WARNING:  terminando la conexi�n debido a una falla en otro proceso servidor
+2016-04-26 09:59:45 CST DETALLE:  Postmaster ha ordenado que este proceso servidor cancele la transacci�n en curso y finalice la conexi�n, porque otro proceso servidor ha terminado anormalmente y podr�a haber corrompido la memoria compartida.
+2016-04-26 09:59:45 CST HINT:  Dentro de un momento deber�a poder reconectarse y repetir la consulta.
+2016-04-26 09:59:45 CST LOG:  todos los procesos fueron terminados; reinicializando
+2016-04-26 09:59:55 CST FATAL:  el bloque de memoria compartida preexistente a�n est� en uso
+2016-04-26 09:59:55 CST HINT:  Verifique si hay procesos de servidor antiguos a�n en funcionamiento, y term�nelos.
